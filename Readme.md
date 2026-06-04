@@ -7,6 +7,6 @@ I am documenting my daily learning, practice, and projects step-by-st
 
 | Day | Topic | Notebook |
 |-----|------|----------|
-| ✅ Day 1 | Basic Python Programming | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/blob/main/Day_001.ipynb) |
+| ✅ Day 1 | Basic Python Programming | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/blob/main/Day001/Day_001_code.ipynb) |
 
 ---
