@@ -18,12 +18,10 @@ I mainly focused on:
 
 ## 🛠 What I practiced
 
-I worked on a big batch of coding problems today and managed to complete 13 of them:
+I worked on a big batch of coding problems today and managed to complete all 15 of them:
 - **Calculators:** Built a menu-driven unit converter and an in-hand salary calculator with tax deductions.
 - **Math Logic:** Wrote programs for the Fibonacci series, factorials, checking prime numbers, and finding Armstrong numbers in a specific range.
 - **Tracking:** Created a script to calculate a moving robot's final distance from its starting point.
-
-I have 2 trickier problems left that I will tackle tomorrow because I ran out of time today. 
 
 ---
 
@@ -37,6 +35,6 @@ The biggest thing I understood today is:
 
 ## 🚀 End of Day 2
 
-I am definitely feeling the push now. The problems are getting tougher, but solving 13 problems in one session gave me a huge confidence boost. 
+I am definitely feeling the push now. The problems are getting tougher, but solving all 15 problems in one session gave me a huge confidence boost. 
 
 My GitHub streak is safe for today. Let's finish the rest tomorrow!
