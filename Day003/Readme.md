@@ -1,7 +1,7 @@
 # 📐 Day 3 – Loop Patterns and Math Logic
 
 Today was a lot of fun! Yesterday we learned simple loops, but today we used nested loops to solve complex patterns and tough mathematical series. At first, geometry and series seemed difficult, but once the logic clicked, it became enjoyable.
-
+ 
 ---
 
 ## 💡 What I learned today
