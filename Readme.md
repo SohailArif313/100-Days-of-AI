@@ -10,5 +10,6 @@ I am documenting my daily learning, practice, and projects step-by-step.
 | ✅ Day 1 | Basic Python Programming | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/blob/main/Day001/Day_001_code.ipynb) |
 | ✅ Day 2 | Loops & Conditional Logic | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/blob/main/Day002/Day_002_code.ipynb) |
 | ✅ Day 3 | Nested Loops & Math Logic | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/blob/main/Day003/Day_003_code.ipynb) |
+| ✅ Day 4 | Python Lists & Matrices | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/blob/main/Day004/Day_004_code.ipynb) |
 
 ---
