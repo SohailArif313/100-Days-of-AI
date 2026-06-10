@@ -6,32 +6,32 @@ All exercises were fully self-coded and completed through hands-on practice.
 
 ---
 
-## What I Learned
+## What I learned
 
 ### Tuples
-- Practiced tuple unpacking and working with structured data.
-- Learned how to handle edge cases where multiple values are processed together.
-- Understood why tuples are useful for immutable and fixed data structures.
+- Practiced tuple unpacking and working with structured data  
+- Learned how to handle cases where multiple values are processed together  
+- Understood why tuples are useful for immutable and fixed data  
 
 ### Sets
-- Used set operations like intersection (`&`) to find common elements across collections.
-- Learned how sets help eliminate duplicates automatically.
-- Applied sets for fast filtering and validation tasks.
+- Used set operations like intersection (`&`) to find common elements  
+- Learned how sets automatically remove duplicates  
+- Applied sets for fast filtering and validation tasks  
 
 ### Dictionaries
-- Built and modified dictionary structures from lists.
-- Practiced mapping transformations and key-value manipulation.
-- Worked on sorting and restructuring complex dictionary data.
+- Built and modified dictionary structures from lists  
+- Practiced mapping transformations and key-value manipulation  
+- Worked on sorting and restructuring complex dictionary data  
 
 ### Data Filtering Logic
-- Implemented simple filtering systems using conditions and data structures.
-- Learned how combining loops with dictionaries can solve structured data problems efficiently.
+- Built filtering systems using conditions and structured data  
+- Learned how loops combined with dictionaries improve efficiency  
 
 ---
 
-## Key Takeaway
+## Key takeaway
 
-Choosing the right data structure significantly simplifies problem-solving.
+Choosing the right data structure can significantly simplify problem-solving.
 
 Many problems that seem complex with loops become much simpler when solved using sets or dictionaries.
 
@@ -44,7 +44,3 @@ Many problems that seem complex with loops become much simpler when solved using
 - [x] Dictionaries – transformations and sorting  
 
 ---
-
-## Status
-
-Day 5 completed successfully. Moving on to Day 6.
