@@ -37,10 +37,3 @@ Many problems that seem complex with loops become much simpler when solved using
 
 ---
 
-## Progress
-
-- [x] Tuples – advanced understanding  
-- [x] Sets – operations and applications  
-- [x] Dictionaries – transformations and sorting  
-
----
