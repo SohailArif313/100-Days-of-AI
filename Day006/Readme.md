@@ -1,14 +1,14 @@
-# Day 6 – Algorithmic Optimization and Data Transformations
+# Day 6 – Algorithmic Logic and Functional Programming
 
-Day 6 shifts the focus from writing basic code to designing optimized, algorithmic logic using core collections. Completing 10 out of 15 advanced challenges highlights how structural choices impact runtime efficiency.
+Day 6 transitions from syntax mechanics to computational efficiency and functional paradigms, completing all 15 advanced architectural challenges.
 
 ## Core Concepts Taught
 
-* Efficiency over Loops: Utilizing sets for deduplication runs in O(N) time, replacing expensive nested loop iterations.
-* Advanced Lookups: Using lambda functions within dictionaries teaches custom key mapping for precise, real-time frequency sorting.
-* Applied Mathematics: Implementing 2D distance tracking and automatic histogram bucketing demonstrates how to bin and model raw data mathematically.
-* NLP Foundations: Building a manual Bag of Words matrix from scratch serves as a foundational introduction to machine learning feature engineering.
+* Algorithmic Efficiency: Utilizing sets over nested loops optimizes data deduplication from quadratic time down to linear time complexity.
+* Mathematical Modeling: Implementing coordinate tracking and floor-division formulas teaches how to partition and bin raw data structurally.
+* Feature Engineering: Handcrafting a text vectorization matrix provides a foundational understanding of data preprocessing pipelines in natural language processing.
+* Functional Paradigms: Processing collections using map, filter, and reduce alongside lambda expressions demonstrates how to transform data streams cleanly without redundant memory overhead.
 
 ## Engineering Takeaway
 
-The ultimate goal is scalability. Writing clean, optimized lookup logic prepares the mindset for advanced functional programming workflows like map, filter, and reduce.
+Scalable development relies on choosing the right architectural tool. Shifting from imperative loop constructs to immutable functional chains minimizes side effects and optimizes pipelines for modern data engineering.
