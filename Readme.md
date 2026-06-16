@@ -14,5 +14,6 @@ I am documenting my daily learning, practice, and projects step-by-step.
 | Day 5 | Python Tuples & Sets | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/blob/main/Day005/Day_005_code.ipynb) |
 | Day 6 | Algorithmic Logic & Transformations | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/blob/main/Day006/Day_006_code.ipynb) |
 | Day 7 | Object-Oriented Programming (OOP) | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/blob/main/Day007/Day_007_code.ipynb) |
+| Day 8 | Advanced Object-Oriented Programming (OOP) | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/blob/main/Day008/Day_008_code.ipynb) |
 
 ---
