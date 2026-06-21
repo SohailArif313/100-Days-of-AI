@@ -7,6 +7,8 @@ Day 9 shifts away from basic instance management into building foundational soft
 * **Class Inheritance & Overriding:** Extending base class operations to compute specific functional properties with custom maintenance variables.
 * **Object Composition:** Passing independently instantiated objects into a wrapper controller class to model structural, real-world coordinate tracking.
 * **Abstract Base Classes (ABC):** Utilizing strict interface compliance templates to guarantee consistent function implementations across different geometries.
+* **Bill Management System:** Built a bill-processing class that supports both cash and cheque payment methods.
+* **Working with FlexibleDict:** Learned how to inherit from and extend Python's built-in dict class to create more flexible and reusable data structures.
 
 ## Engineering Takeaway
 
