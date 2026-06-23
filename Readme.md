@@ -16,5 +16,6 @@ I am documenting my daily learning, practice, and projects step-by-step.
 | Day 7 | Object-Oriented Programming (OOP) | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day007) |
 | Day 8 | Advanced Object-Oriented Programming (OOP) | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day008) |
 | Day 9 | Inheritance & Abstract Classes | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day009) |
+| Day 10 | File Handling & Recursion | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day010) |
 
 ---
