@@ -5,10 +5,10 @@ This folder contains my complete solutions for the Day 12 tasks, focusing on Pyt
 ## Problems Solved
 
 * **Class Namespaces:** Built a Person class with a mix of public and private attributes to explore how Python maps names inside class structures.
-* **Instance Namespaces:** Wrote a script to print out and inspect the internal dictionary (__dict__) of a class instance to see how private variables undergo name mangling.
+* **Instance Namespaces:** Learned how to use `__dict__` to view the variables stored inside an object and understand private variable name mangling.
 * **Recursive GCD with Call Counter:** Created a recursive Greatest Common Divisor function that tracks and outputs the exact number of recursive execution calls required to find the answer.
 * **Custom Enumerate Iterator:** Designed a MyEnumerate class from scratch that replicates Python's native enumerate function, ensuring it safely handles errors if a non-iterable item is passed.
-* **Circular Sequence Iterator:** Implemented a Circle class and an auxiliary CircleIterator to continuously cycle through a fixed sequence of items for a specific user-defined limit.
+* **Circular Sequence Iterator:** Built a `Circle` class and a `CircleIterator` that repeats the items of a sequence until a specified limit.
 * **Time-Elapsed Generator:** Created a generator function that tracks the exact execution time delta between sequential loop iterations using high-resolution performance counters.
 * **Chained String Decorators:** Built a chain of custom decorators (bold, italic, underline) to demonstrate how multiple wrappers modify a single function string output from the bottom up.
 * **Conditional Return Printer Decorator:** Wrote a printer decorator that automatically intercepts and logs a function's return value, doing absolutely nothing if the output evaluates to None.
