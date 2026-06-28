@@ -19,5 +19,6 @@ I am documenting my daily learning, practice, and projects step-by-step.
 | Day 10 | File Handling & Recursion | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day010) |
 | Day 11 | Exception Handling | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day011) |
 | Day 12 | Namespaces, Iterators & Decorators | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day012) |
+| Day 13 | NumPy Basics & Array Math | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day013) |
 
 ---
