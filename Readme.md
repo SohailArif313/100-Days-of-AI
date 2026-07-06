@@ -22,5 +22,5 @@ I am documenting my daily learning, practice, and projects step-by-step.
 | Day 13 | NumPy Basics & Array Math | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day013) |
 | Day 14 | Advanced NumPy & Vector Operations | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day014) |
 | Day 15 | Matrix Sorting, Stacking, and Data Filtering | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day015) |
-
+| Day 16 | Introduction to Pandas Series | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day016) |
 ---
