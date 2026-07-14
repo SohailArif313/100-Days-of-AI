@@ -25,4 +25,5 @@ I am documenting my daily learning, practice, and projects step-by-step.
 | Day 16 | Introduction to Pandas Series | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day016) |
 | Day 17 | Mastering Pandas DataFrames | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day017) |
 | Day 18 | Advanced Data Aggregations and Dynamic Standings (FIFA World Cup Analytics) | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day018) |
+| Day 19 | Advanced Pandas Groupby & Aggregations | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day019) |
 ---
