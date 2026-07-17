@@ -49,14 +49,20 @@ This project is my hands-on practice for solving these problems using (**Pandas,
 1. Clone this repository.
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/SohailArif313/100-Days-of-AI.git
+cd 100-Days-of-AI
 ```
 
-2. Install the required libraries.
+2. Open the **Day020** folder.
+
+```bash
+cd Day020
+```
+
+3. Install the required libraries.
 
 ```bash
 pip install pandas numpy matplotlib seaborn
 ```
 
-3. Open the Jupyter Notebook and run all cells.
+4. Open the Jupyter Notebook and run all cells.
