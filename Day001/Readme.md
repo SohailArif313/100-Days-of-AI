@@ -18,5 +18,3 @@ I built three basic scripts to test myself:
 ## Key Takeaway
 
 **Never tackle a whole problem at once. Break it down into small, logical pieces, and the code becomes easy.**
-
-Day 1 is done, and confidence is up. Let's see what Day 2 brings.
