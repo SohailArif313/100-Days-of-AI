@@ -31,4 +31,5 @@ I am documenting my daily learning, practice, and projects step-by-step.
 | Day 22 | Data Cleaning, String Manipulation & Pivot Aggregations | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day022) |
 | Day 23 | Data Visualization with Matplotlib | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day023) |
 | Day 24 | Advanced Data Visualization – 3D Plots, Surface & Contour Plots | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day024) |
+| Day 25 | Statistical Data Visualization with Seaborn (Scatter, Heatmap, KDE & Clustermap) | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day025) |
 ---
