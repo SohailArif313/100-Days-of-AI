@@ -30,4 +30,5 @@ I am documenting my daily learning, practice, and projects step-by-step.
 | Day 21 | Pandas Multi-Indexing & Hierarchical Data | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day021) |
 | Day 22 | Data Cleaning, String Manipulation & Pivot Aggregations | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day022) |
 | Day 23 | Data Visualization with Matplotlib | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day023) |
+| Day 24 | Advanced Data Visualization – 3D Plots, Surface & Contour Plots | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day024) |
 ---
