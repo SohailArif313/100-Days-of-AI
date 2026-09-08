@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MediBot — Patient Records</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="wrap">
+
+  <header class="top">
+    <div class="brand">
+      <span class="brand-mark">M</span>
+      <div>
+        <h1>MediBot Records</h1>
+        <p>Patient registry &amp; assistant — ask by name, ID, or health question</p>
+      </div>
+    </div>
+    <div class="top-right">
+      <button class="theme-toggle" id="themeToggle" title="Toggle dark mode" type="button">🌙</button>
+      <div class="top-status" id="topStatus">Connecting…</div>
+    </div>
+  </header>
+
+  <main class="grid-top">
+
+    <!-- Register New Patient -->
+    <section class="card">
+      <h2><span class="eyebrow">01</span> Register patient</h2>
+      <form id="createForm" class="form-grid" autocomplete="off">
+        <label>Patient ID
+          <input id="c_id" placeholder="P007" required>
+        </label>
+        <label>Full name
+          <input id="c_name" placeholder="Sohail Arif" required>
+        </label>
+        <label>City
+          <input id="c_city" placeholder="Lahore" required>
+        </label>
+        <label>Age
+          <input id="c_age" type="number" min="0" max="120" placeholder="28" required>
+        </label>
+        <label>Gender
+          <select id="c_gender">
+            <option value="male">Male</option>
+            <option value="female">Female</option>
+            <option value="others">Other</option>
+          </select>
+        </label>
+        <div class="two-col">
+          <label>Height (m)
+            <input id="c_height" type="number" step="0.01" min="0.01" placeholder="1.65" required>
+          </label>
+          <label>Weight (kg)
+            <input id="c_weight" type="number" step="0.1" min="0.1" placeholder="58" required>
+          </label>
+        </div>
+        <button type="submit" class="btn btn-primary">Save patient record</button>
+        <p class="form-msg" id="createMsg"></p>
+      </form>
+    </section>
+
+    <!-- Ask MediBot -->
+    <section class="card">
+      <h2><span class="eyebrow">02</span> Ask MediBot</h2>
+      <p class="hint">Type a Patient ID (P001), a name, or a general health question.</p>
+      <form id="askForm" class="ask-row" autocomplete="off">
+        <input id="ai_question" placeholder="e.g. P002, or “Sohail”, or “what causes fatigue?”" required>
+        <button type="submit" class="btn btn-accent">Ask</button>
+      </form>
+      <div id="ai_response" class="ai-response">
+        <span class="muted">Answers and matching patient records will appear here…</span>
+      </div>
+    </section>
+
+  </main>
+
+  <!-- Patient Records Table -->
+  <section class="card wide">
+    <div class="table-head">
+      <h2><span class="eyebrow">03</span> Patient records</h2>
+      <div class="table-controls">
+        <input id="searchBox" class="search-input" type="text" placeholder="Search by ID or name…">
+        <label class="inline-label">Sort by
+          <select id="sortBy">
+            <option value="">Default (ID)</option>
+            <option value="age">Age</option>
+            <option value="height">Height</option>
+            <option value="weight">Weight</option>
+          </select>
+        </label>
+        <label class="inline-label">Order
+          <select id="sortOrder">
+            <option value="asc">Ascending</option>
+            <option value="desc">Descending</option>
+          </select>
+        </label>
+        <label class="inline-label">Per page
+          <select id="pageSize">
+            <option value="20">20</option>
+            <option value="50">50</option>
+            <option value="100">100</option>
+          </select>
+        </label>
+        <button class="btn btn-ghost" id="refreshBtn">Refresh</button>
+      </div>
+    </div>
+
+    <div class="table-scroll">
+      <table>
+        <thead>
+          <tr>
+            <th>ID</th>
+            <th>Name</th>
+            <th>City</th>
+            <th>Gender</th>
+            <th>Age</th>
+            <th>Height</th>
+            <th>Weight</th>
+            <th>BMI</th>
+            <th>Verdict</th>
+            <th></th>
+          </tr>
+        </thead>
+        <tbody id="patient_table">
+          <tr><td colspan="10" class="empty">Loading patients…</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <div class="pagination-bar">
+      <span id="resultSummary" class="hint">—</span>
+      <div class="pagination-controls">
+        <button class="btn btn-ghost btn-sm" id="prevPage">← Prev</button>
+        <span id="pageIndicator" class="page-indicator">Page 1 of 1</span>
+        <button class="btn btn-ghost btn-sm" id="nextPage">Next →</button>
+      </div>
+    </div>
+
+    <div class="undo-row">
+      <span class="hint">Deleted a patient by mistake? Restore by ID:</span>
+      <input id="undo_id" placeholder="P001" class="undo-input">
+      <button class="btn btn-ghost" id="undoBtn">Restore</button>
+      <span class="form-msg" id="undoMsg"></span>
+    </div>
+  </section>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
