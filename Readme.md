@@ -33,4 +33,6 @@ I am documenting my daily learning, practice, and projects step-by-step.
 | Day 24 | Advanced Data Visualization – 3D Plots, Surface & Contour Plots | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day024) |
 | Day 25 | Statistical Data Visualization with Seaborn (Scatter, Heatmap, KDE & Clustermap) | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day025) |
 | Day 26 | Advanced Seaborn Visualizations (Violin, Reg, Pair, Joint Plots & Grids) | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day026) |
+| Day 27 | Data Extraction & Integration – SQL Dump to Excel & REST API to SQLite | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day027) |
+| Day 28 | Full-Stack AI Patient Management System – FastAPI, SQLAlchemy & LangChain-Powered Assistant | [Open Notebook](https://github.com/SohailArif313/100-Days-of-AI/tree/main/Day028) |
 ---
