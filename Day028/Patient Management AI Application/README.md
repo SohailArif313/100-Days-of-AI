@@ -1,4 +1,4 @@
-# MediBot — Patient Records  (Day 28 of 100 days of AI)
+# MediBot — Patient Records
 
 A small patient management app. FastAPI backend, SQLite database, plain HTML/CSS/JS frontend, with a chat-style assistant for looking up patients or asking general health questions.
 
